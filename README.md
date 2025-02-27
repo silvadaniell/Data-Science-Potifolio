@@ -4,4 +4,4 @@
 
 <img src="https://github.com/silvadaniell/Data-Science-Potifolio/blob/main/Files/images/danielsilva.png">
 
-Welcome to my Data Science portfolio! Here you will find a collection of projects that demonstrate my skills and experience in data analysis, machine Learning, time series and scientific research
+Bem-vindo ao meu portfólio de Ciência de Dados! Aqui você encontrará uma coleção de projetos que demonstram minhas habilidades e experiência em análise de dados, aprendizado de máquina e pesquisa científica.
